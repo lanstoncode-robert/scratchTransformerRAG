@@ -70,7 +70,7 @@ except ImportError as e:
 ### 3. Native Model Execution Loop
 To re-run text corpus tensor collection, local dataset token mapping, Jaccard contextual scoring, and local network training, invoke the pipeline execution via:
 ```bash
-python train_scratch_transformer_rag.py
+python scratchTransformerRag.ipynb
 ```
 
 ---
