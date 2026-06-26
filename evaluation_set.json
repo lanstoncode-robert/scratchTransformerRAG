@@ -1,0 +1,32 @@
+[
+  {
+    "eval_id": "qa_venezuela_001",
+    "user_query": "What were the exact magnitudes and depths of the two earthquakes that hit Venezuela?",
+    "expected_context": "The first earthquake, with an epicentre 21 kilometres west of the coastal town of Moron...",
+    "ground_truth_answer": "The doublet earthquake consisted of an initial 7.2-magnitude tremor followed by a stronger 7.5-magnitude tremor..."
+  },
+  {
+    "eval_id": "qa_venezuela_002",
+    "user_query": "Which Venezuelan state was declared a disaster zone by Interim President Delcy Rodriguez?",
+    "expected_context": "Interim President Delcy Rodriguez said that intense rescue efforts were going on...",
+    "ground_truth_answer": "La Guaira State was designated as a disaster zone by Interim President Delcy Rodriguez..."
+  },
+  {
+    "eval_id": "qa_cbi_001",
+    "user_query": "What is the name of the CBI operation against digital arrest scams and how many locations were searched?",
+    "expected_context": "Under Operation Chakra-VI... the Central Bureau of Investigation (CBI) searched more than 80 locations across the country...",
+    "ground_truth_answer": "The CBI operation is named Operation Chakra-VI. Under this operation, the agency searched more than 80 locations across India."
+  },
+  {
+    "eval_id": "qa_cbi_002",
+    "user_query": "Who was arrested in the CBI digital arrest scam crackdown, and how much money did they launder?",
+    "expected_context": "It has arrested two accused so far — Naresh from Chennai, Tamil Nadu, and Sanjib Saha of Kolkata, West Bengal... These accounts were used for laundering about ₹2 crore...",
+    "ground_truth_answer": "The CBI arrested two individuals: Naresh from Chennai and Sanjib Saha from Kolkata. They used shell companies and mule accounts to launder approximately ₹2 crore."
+  },
+  {
+    "eval_id": "qa_cbi_003",
+    "user_query": "What specific institution prompted a case registration after its website domain was spoofed?",
+    "expected_context": "Based on a complaint received from the Registry of the Supreme Court, the agency registered a case... Unearthed a fraudulent website with a URL deceptively similar to the official website of the Supreme Court.",
+    "ground_truth_answer": "The Registry of the Supreme Court filed a complaint after fraudsters created a fake website with a URL deceptively similar to the official Supreme Court website, prompting the CBI to register a case."
+  }
+]

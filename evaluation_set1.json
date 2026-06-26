@@ -1,0 +1,14 @@
+[
+    {
+        "query": "What is Viksit Bharat blueprint?",
+        "expected_answer": "Blueprint for economic expansion by 2047."
+    },
+    {
+        "query": "What does Surakshit Bharat focus on?",
+        "expected_answer": "Focuses on robust cybersecurity and defense perimeter hardening."
+    },
+    {
+        "query": "What does the technology updates introduce?",
+        "expected_answer": "Introduces local AI frameworks running on consumer hardware."
+    }
+]

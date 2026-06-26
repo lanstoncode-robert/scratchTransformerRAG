@@ -1,0 +1,62 @@
+[
+  {
+    "chunk_id": "venezuela_quake_2026_001",
+    "text": "A powerful doublet earthquake hit Venezuela on Wednesday evening, killing at least 188 people and injuring over 1,500. The United States Geological Survey (USGS) measured the two tremors at magnitudes of 7.2 and 7.5, both centered west of the capital city, Caracas...",
+    "metadata": {
+      "source": "AFP News Report",
+      "topic": "Natural Disasters",
+      "location": "Venezuela"
+    }
+  },
+  {
+    "chunk_id": "venezuela_quake_2026_002",
+    "text": "The first earthquake occurred at 6:04 p.m. local time on Wednesday, with an epicenter located 21 kilometers west of the coastal town of Moron at a depth of 22 kilometers...",
+    "metadata": {
+      "source": "AFP News Report",
+      "topic": "Natural Disasters",
+      "location": "Moron, La Guaira"
+    }
+  },
+  {
+    "chunk_id": "venezuela_quake_2026_003",
+    "text": "International aid efforts mobilization followed the Venezuela earthquakes, with UN specialists and rescue teams from the United States and multiple European countries deploying to locate survivors...",
+    "metadata": {
+      "source": "AFP News Report",
+      "topic": "International Relief",
+      "location": "Caracas Airport"
+    }
+  },
+  {
+    "chunk_id": "cbi_operation_chakra_vi_001",
+    "text": "The Central Bureau of Investigation (CBI) launched a nationwide crackdown on cybercrime infrastructure facilitating 'digital arrest' scams under Operation Chakra-VI. The agency searched over 80 locations across India, including states like Punjab, Gujarat, Delhi, Maharashtra, Haryana, Tamil Nadu, Telangana, Andhra Pradesh, Uttar Pradesh, Madhya Pradesh, Rajasthan, Assam, West Bengal, Manipur, Karnataka, and Odisha. The operation targeted a network involved in over 200 cases of digital arrest scams.",
+    "metadata": {
+      "source": "CBI Press Report",
+      "topic": "Cybercrime Crackdown",
+      "operation_name": "Operation Chakra-VI",
+      "cases_linked": "200+"
+    }
+  },
+  {
+    "chunk_id": "cbi_operation_chakra_vi_002",
+    "text": "As part of Operation Chakra-VI, the CBI arrested two key accused: Naresh from Chennai, Tamil Nadu, and Sanjib Saha from Kolkata, West Bengal. The accused were involved in incorporating shell companies and managing mule bank accounts. These fraudulent bank accounts were utilized to launder approximately ₹2 crore of suspected proceeds generated from the digital arrest scams.",
+    "metadata": {
+      "source": "CBI Press Report",
+      "topic": "Financial Fraud",
+      "arrests": [
+        "Naresh",
+        "Sanjib Saha"
+      ],
+      "amount_laundered_inr": "2 crore"
+    }
+  },
+  {
+    "chunk_id": "cbi_operation_chakra_vi_003",
+    "text": "The CBI unearthed a fraudulent website utilizing a registered domain URL deceptively similar to the official website of the Supreme Court of India. The fraudsters used this fake portal to scam victims. Following a formal complaint received from the Registry of the Supreme Court, the CBI registered a case and initiated an active investigation.",
+    "metadata": {
+      "source": "CBI Press Report",
+      "topic": "Domain Fraud",
+      "target_institution": "Supreme Court of India",
+      "complainant": "Registry of the Supreme Court"
+    }
+  }
+]
