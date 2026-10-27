@@ -28,5 +28,77 @@
     "user_query": "What specific institution prompted a case registration after its website domain was spoofed?",
     "expected_context": "Based on a complaint received from the Registry of the Supreme Court, the agency registered a case... Unearthed a fraudulent website with a URL deceptively similar to the official website of the Supreme Court.",
     "ground_truth_answer": "The Registry of the Supreme Court filed a complaint after fraudsters created a fake website with a URL deceptively similar to the official Supreme Court website, prompting the CBI to register a case."
+  },
+  {
+    "eval_id": "qa_hummingbird_001",
+    "user_query": "What items did Oliver carry in his leather satchel when entering the Whispering Woods?",
+    "expected_context": "Oliver carried a leather satchel containing an iron wrench, a magnifying glass, and a small jar of golden oil.",
+    "ground_truth_answer": "Oliver carried a leather satchel containing an iron wrench, a magnifying glass, and a small jar of golden oil."
+  },
+  {
+    "eval_id": "qa_hummingbird_002",
+    "user_query": "What did the wise old owl tell Oliver he must do to find the magical stone?",
+    "expected_context": "To find the stone, the owl hooted softly, you must listen to the rhythm of the wilderness.",
+    "ground_truth_answer": "The wise old owl told Oliver that he must listen to the rhythm of the wilderness to find the gemstone."
+  },
+  {
+    "eval_id": "qa_hummingbird_003",
+    "user_query": "Where exactly did Oliver discover the radiant sapphire gemstone inside the forest?",
+    "expected_context": "Following the music of nature, Oliver discovered the ancient hollow tree. Nestled safely inside a bed of velvet moss lay the radiant sapphire gemstone.",
+    "ground_truth_answer": "Oliver discovered the radiant sapphire gemstone nestled inside a bed of velvet moss within the ancient hollow tree."
+  },
+  {
+    "eval_id": "qa_hummingbird_004",
+    "user_query": "What happened to Barnaby the clockwork hummingbird after the sapphire stone was embedded in his chest?",
+    "expected_context": "Oliver embedded the stone directly into Barnaby’s mechanical chest. The brass wings fluttered instantly. Barnaby opened his small beak and unleashed a magnificent, sparkling melody...",
+    "ground_truth_answer": "Barnaby’s brass wings fluttered instantly, and he opened his beak to unleash a magnificent, sparkling melody."
+  },
+  {
+    "eval_id": "qa_palestine_001",
+    "user_query": "Which historical movements and global events catalyzed the push to establish a Jewish national home under the Ottoman Empire and British Mandate?",
+    "expected_context": "This existential threat catalyzed the Zionist movement, which sought to establish a Jewish national home in their ancestral land, then known under the Ottoman Empire and later the British Mandate of Palestine.",
+    "ground_truth_answer": "Systemic global persecution, pogroms, and the Holocaust catalyzed the Zionist movement to seek a national home within Ottoman and British Mandate Palestine."
+  },
+  {
+    "eval_id": "qa_palestine_002",
+    "user_query": "How did the indigenous Arab Palestinian inhabitants view the accelerated Jewish immigration during the early-to-mid 20th century?",
+    "expected_context": "The Arab population viewed this influx as a direct threat to their self-determination, sovereignty, and demographic presence.",
+    "ground_truth_answer": "The indigenous Arab population viewed the accelerating immigration influx as a direct threat to their demographic presence, sovereignty, and self-determination."
+  },
+  {
+    "eval_id": "qa_palestine_003",
+    "user_query": "What terms and historical outcomes are associated with the United Nations partition plan of 1947 for both populations?",
+    "expected_context": "For the Palestinian population, it culminated in the Nakba (the catastrophe), resulting in the mass displacement of hundreds of thousands of Palestinians and the establishment of the State of Israel in 1948.",
+    "ground_truth_answer": "The 1947 UN partition plan led to a war of survival for the Jewish population, the establishment of Israel in 1948, and the Nakba (catastrophe) involving mass displacement for Palestinians."
+  },
+  {
+    "eval_id": "qa_palestine_004",
+    "user_query": "What systemic conditions have millions of Palestinians faced in the decades following the initial regional wars?",
+    "expected_context": "millions of Palestinians have faced decades of military occupation, blockades, and systemic restrictions on movement and resources.",
+    "ground_truth_answer": "In the subsequent decades, millions of Palestinians have faced ongoing military occupation, economic and spatial blockades, alongside systemic restrictions on resources and movement."
+  },
+  {
+    "eval_id": "qa_tycoons_001",
+    "user_query": "How has the modern legacy of the Rockefeller fortune evolved from its original foundation in Standard Oil?",
+    "expected_context": "this legacy has evolved from direct ownership of oil fields to influential roles in global philanthropy, investment funds, and international think tanks that shape environmental and economic policies.",
+    "ground_truth_answer": "The modern legacy has shifted from absolute direct ownership of oil fields into strategic influence over global philanthropy networks, investment funds, and international policy think tanks."
+  },
+  {
+    "eval_id": "qa_tycoons_002",
+    "user_query": "What core aspects of the traditional Westphalian world order do critics argue are challenged by transnational corporate foundations?",
+    "expected_context": "it can challenge the traditional Westphalian world order. In this view, state sovereignty can be bypassed or undermined by corporate networks that dictate trade agreements and resource extraction terms.",
+    "ground_truth_answer": "Critics argue that transnational corporate networks challenge the Westphalian world order by bypassing state sovereignty and directly dictating trade agreements and resource extraction terms."
+  },
+  {
+    "eval_id": "qa_tycoons_003",
+    "user_query": "What specific asset categories are highlighted as targets within global corporate supply chain consolidation?",
+    "expected_context": "global supply chains—ranging from fossil fuels and rare earth minerals to agricultural land and water systems",
+    "ground_truth_answer": "The targeted global supply chain assets include fossil fuels, rare earth minerals, physical agricultural land, and essential water systems."
+  },
+  {
+    "eval_id": "qa_tycoons_004",
+    "user_query": "How do mainstream economic proponents defend the interventions of large private investment groups in global markets?",
+    "expected_context": "Proponents suggest that these organizations operate within the boundaries of global regulatory standards to stabilize markets rather than uproot the international system",
+    "ground_truth_answer": "Proponents argue that private investment groups operate strictly within global regulatory boundaries to stabilize international markets instead of disrupting the current system."
   }
 ]

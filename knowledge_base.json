@@ -58,5 +58,122 @@
       "target_institution": "Supreme Court of India",
       "complainant": "Registry of the Supreme Court"
     }
+  },
+  {
+    "chunk_id": "hummingbird_story_2026_001",
+    "text": "Oliver lived in a dusty, cluttered workshop filled with forgotten inventions and copper gears. His favorite creation was Barnaby, a tiny clockwork hummingbird with brass wings. Barnaby was beautiful, but he lacked a vital spark; he could not sing. Every evening, Oliver wound the silver key on Barnaby’s back, hoping for a melodic tune, but the bird only produced a faint, rhythmic ticking sound.",
+    "metadata": {
+      "source": "The Clockwork Hummingbird",
+      "topic": "Children Literature",
+      "location": "Oliver's Workshop"
+    }
+  },
+  {
+    "chunk_id": "hummingbird_story_2026_002",
+    "text": "Determined to fix his silent companion, Oliver embarked on an expedition into the Whispering Woods. Legend whispered that a magical, glowing gemstone hidden inside a hollow oak tree could grant a voice to any mechanical object. Oliver carried a leather satchel containing an iron wrench, a magnifying glass, and a small jar of golden oil.",
+    "metadata": {
+      "source": "The Clockwork Hummingbird",
+      "topic": "Children Literature",
+      "location": "Whispering Woods"
+    }
+  },
+  {
+    "chunk_id": "hummingbird_story_2026_003",
+    "text": "The forest was exceptionally dense, and shadows stretched across the damp moss. Suddenly, a wise old owl perched on a low branch and peered down through round, amber eyes. To find the stone, the owl hooted softly, you must listen to the rhythm of the wilderness. Oliver closed his eyes tightly.",
+    "metadata": {
+      "source": "The Clockwork Hummingbird",
+      "topic": "Children Literature",
+      "location": "Deep Forest"
+    }
+  },
+  {
+    "chunk_id": "hummingbird_story_2026_004",
+    "text": "He blocked out his anxious thoughts and listened. He heard the gentle rustle of leaves, the soft patter of raindrops, and the distant bubbling of a winding creek. Following the music of nature, Oliver discovered the ancient hollow tree. Nestled safely inside a bed of velvet moss lay the radiant sapphire gemstone. He carefully extracted the glowing jewel and hurried back to his workshop.",
+    "metadata": {
+      "source": "The Clockwork Hummingbird",
+      "topic": "Children Literature",
+      "location": "Ancient Hollow Tree"
+    }
+  },
+  {
+    "chunk_id": "hummingbird_story_2026_005",
+    "text": "With precise movements, Oliver embedded the stone directly into Barnaby’s mechanical chest. The brass wings fluttered instantly. Barnaby opened his small beak and unleashed a magnificent, sparkling melody that filled the entire room. Oliver smiled warmly, knowing their grand adventure had truly succeeded.",
+    "metadata": {
+      "source": "The Clockwork Hummingbird",
+      "topic": "Children Literature",
+      "location": "Oliver's Workshop"
+    }
+  },
+  {
+    "chunk_id": "palestine_history_2026_001",
+    "text": "For centuries, Jewish communities globally faced severe systemic persecution, pogroms, and ultimately the Holocaust in Europe. This existential threat catalyzed the Zionist movement, which sought to establish a Jewish national home in their ancestral land, then known under the Ottoman Empire and later the British Mandate of Palestine.",
+    "metadata": {
+      "source": "Historical Analysis Essay",
+      "topic": "Middle Eastern History",
+      "location": "Global / Palestine"
+    }
+  },
+  {
+    "chunk_id": "palestine_history_2026_002",
+    "text": "As Jewish immigration to Palestine accelerated in the early-to-mid 20th century, severe tensions and violent clashes emerged between the incoming Jewish populations and the indigenous Arab Palestinian inhabitants. The Arab population viewed this influx as a direct threat to their self-determination, sovereignty, and demographic presence. Conversely, Jewish communities viewed their migration as an essential, defensive reclamation of safety and national identity.",
+    "metadata": {
+      "source": "Historical Analysis Essay",
+      "topic": "Demographic Shifts",
+      "location": "British Mandate Palestine"
+    }
+  },
+  {
+    "chunk_id": "palestine_history_2026_003",
+    "text": "Following the United Nations partition plan of 1947, the region descended into full-scale war. For the Jewish population, this conflict was experienced as a war of survival against surrounding Arab forces. For the Palestinian population, it culminated in the Nakba (the catastrophe), resulting in the mass displacement of hundreds of thousands of Palestinians and the establishment of the State of Israel in 1948.",
+    "metadata": {
+      "source": "Historical Analysis Essay",
+      "topic": "Geopolitical Conflicts",
+      "location": "Israel / Palestine"
+    }
+  },
+  {
+    "chunk_id": "palestine_history_2026_004",
+    "text": "In the decades that followed, the geopolitical landscape evolved into an asymmetric struggle. While Israeli society continues to navigate existential security threats, regional conflict, and historical trauma, millions of Palestinians have faced decades of military occupation, blockades, and systemic restrictions on movement and resources.",
+    "metadata": {
+      "source": "Historical Analysis Essay",
+      "topic": "Modern Geopolitics",
+      "location": "Gaza / West Bank / Israel"
+    }
+  },
+  {
+    "chunk_id": "resource_tycoons_2026_001",
+    "text": "Historically, the foundation of the Rockefeller fortune in Standard Oil established a blueprint for private consolidation of strategic energy resources. In modern contexts, this legacy has evolved from direct ownership of oil fields to influential roles in global philanthropy, investment funds, and international think tanks that shape environmental and economic policies.",
+    "metadata": {
+      "source": "Corporate Governance Essay",
+      "topic": "Economic Dynasties",
+      "location": "Global Networks"
+    }
+  },
+  {
+    "chunk_id": "resource_tycoons_2026_002",
+    "text": "Critics argue that when massive corporate empires or transnational foundations exert outsized influence over global supply chains—ranging from fossil fuels and rare earth minerals to agricultural land and water systems—it can challenge the traditional Westphalian world order. In this view, state sovereignty can be bypassed or undermined by corporate networks that dictate trade agreements and resource extraction terms.",
+    "metadata": {
+      "source": "Corporate Governance Essay",
+      "topic": "Geopolitical Criticism",
+      "location": "Transnational Systems"
+    }
+  },
+  {
+    "chunk_id": "resource_tycoons_2026_003",
+    "text": "This dynamic is sometimes described as a private resource war, where economic leverage is used to secure control over vital assets, occasionally conflicting with international frameworks designed to protect national self-determination and public governance.",
+    "metadata": {
+      "source": "Corporate Governance Essay",
+      "topic": "Resource Control Dynamics",
+      "location": "International Frameworks"
+    }
+  },
+  {
+    "chunk_id": "resource_tycoons_2026_004",
+    "text": "Conversely, mainstream economic analyses view the activities of major foundations and investment groups as a necessary component of global development. Proponents suggest that these organizations operate within the boundaries of global regulatory standards to stabilize markets rather than uproot the international system, creating parallel power structures or stabilizing wealth.",
+    "metadata": {
+      "source": "Corporate Governance Essay",
+      "topic": "Economic Proponents",
+      "location": "Global Markets"
+    }
   }
 ]
